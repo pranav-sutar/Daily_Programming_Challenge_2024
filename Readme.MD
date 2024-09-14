@@ -86,3 +86,23 @@ Leaders: [17, 5, 2]
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1v1SHC2FKph3o5pac0OYMJUE-c3Lambu9sG6kX8U1scw/edit?usp=sharing
 ---------------------------------------------------------------
+Day 6 of 30 🗓️
+
+Problem : Find All Subarrays with Zero Sum
+You are given an integer array arr of size n. Your task is to find all the subarrays whose elements sum up to zero. A subarray is defined as a contiguous part of the array, and you must return the starting and ending indices of each subarray.
+
+Input :
+An integer array arr of size n where n represents the number of elements in the array.
+Example : 
+Input: [1, 2, -3, 3, -1, 2]
+
+Output :
+- Return a list of tuples, where each tuple contains two integers. The starting index (0-based) of the subarray. The ending index (0-based) of the subarray.
+- The output should list all subarrays that sum to zero. If no such subarrays are found, return an empty list.
+Example
+Output: [(0, 2), (1, 3)]
+
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1PhtsKDIo14kjwsH5mS86m8oHC40xcKBMbZwqN6127HY/edit?usp=sharing
+---------------------------------------------------------------
