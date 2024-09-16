@@ -106,3 +106,38 @@ Output: [(0, 2), (1, 3)]
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1PhtsKDIo14kjwsH5mS86m8oHC40xcKBMbZwqN6127HY/edit?usp=sharing
 ---------------------------------------------------------------
+Day 7 of 30 🗓️
+
+Problem : Trapping Rain Water
+You are given an array height[] of non-negative integers where each element represents the height of a bar in a histogram-like structure. These bars are placed next to each other, and the width of each bar is 1 unit. When it rains, water gets trapped between the bars if there are taller bars on both the left and right of the shorter bars. The task is to calculate how much water can be trapped between these bars after the rain.
+
+Input :
+An integer array height[] where each element represents the height of a bar in the histogram.
+Example : 
+height[] = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
+
+Output :
+* An integer representing the total units of water that can be trapped between the bars.
+Example
+Output: 6
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1I96Q-XbySvDCQaWnK8ZUZpsggWU8B7McCqp_PrIjwE4/edit?usp=sharing
+---------------------------------------------------------------
+Day 8 of 30 🗓️
+
+Problem : Reverse a String Word by Word
+You are given a string s that consists of multiple words separated by spaces. Your task is to reverse the order of the words in the string. Words are defined as sequences of non-space characters. The output string should not contain leading or trailing spaces, and multiple spaces between words should be reduced to a single space.
+
+Input :
+A string s of length n (1 ≤ n ≤ 10^4) consisting of letters, digits, punctuation, and spaces.
+Example : "the sky is blue"
+
+Output :
+* A string where the words in s are reversed, with a single space separating the words, and no leading or trailing spaces.
+Example: "blue is sky the"
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/13IzrCQA_ns6SJdwHDV1nIKo3-zCpPFn9b72sXWUyNDo/edit?usp=sharing
+---------------------------------------------------------------
+
