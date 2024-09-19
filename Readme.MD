@@ -140,4 +140,46 @@ Example: "blue is sky the"
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/13IzrCQA_ns6SJdwHDV1nIKo3-zCpPFn9b72sXWUyNDo/edit?usp=sharing
 ---------------------------------------------------------------
+Day 9 of 30 🗓️
+
+Problem : Longest Common Prefix
+You are given an array of strings strs[], consisting of lowercase letters. Your task is to find the longest common prefix shared among all the strings. If there is no common prefix, return an empty string "".
+
+Input :
+An array of strings strs[] where each string consists of lowercase English letters.
+Example: strs[] = ["flower", "flow", "flight"]
+
+Output :
+* A string representing the longest common prefix. If no common prefix exists, return an empty string "".
+Example: "fl"
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1--O8LT-DTcSTxi9PTChSS9bHE-Ht-izLKWqEyeXaK30/edit?usp=sharing
+---------------------------------------------------------------
+Day 10 of 30 🗓️
+
+Problem : Group Anagrams
+You are given an array of strings strs[]. Your task is to group all the strings that are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+Input :
+strs[] = ["eat", "tea", "tan", "ate", "nat", "bat"]
+
+Output :
+[["eat", "tea", "ate"], ["tan", "nat"], ["bat"]]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1OU0WAba0tSedn4mO6mwAT6XcT4FSWIyA-q_AbmSNWXw/edit?usp=sharing
+---------------------------------------------------------------
+Day 11 of 30 🗓️
+
+Problem : Permutations of a String
+You are given a string s. Your task is to generate and return all possible permutations of the characters in the string. A permutation is a rearrangement of the characters in the string, and each character must appear exactly once in every permutation. If there are duplicate characters in the string, the resulting permutations should also be unique (i.e., no repeated permutations).
+
+Input : "abc"
+
+Output : ["abc", "acb", "bac", "bca", "cab", "cba"]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1YMAR1kHq7TY_QbJMHVo9p0CnOtIcpeW4CypHK5DHHlg/edit?usp=sharing
+---------------------------------------------------------------
 
