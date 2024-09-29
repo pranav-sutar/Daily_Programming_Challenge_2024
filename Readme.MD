@@ -290,4 +290,16 @@ Output : [1, 2, 3, 4]
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1c8LgrDXZGmq5f9v88mK7ApZ60Lt2PBoccNHQAryzXQs/edit?usp=sharing
 ---------------------------------------------------------------
+Day 21 of 30 🗓️
+
+Problem : Reverse a Stack Using Recursion
+You are given a stack of integers, and your task is to write a function that reverses the stack using recursion. You are not allowed to use any additional data structure (like arrays, lists, or another stack). The only operations you are allowed to perform are push, pop, and peek on the stack. The reversal must be done using recursion only.
+
+Input : [3, 1, 4, 2]
+
+Output : [2, 4, 1, 3]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/18ibm5itlOTW_qtOYrrffNlrAzxs5_Slif2zRnuIQ-C0/edit?usp=sharing
+---------------------------------------------------------------
 
