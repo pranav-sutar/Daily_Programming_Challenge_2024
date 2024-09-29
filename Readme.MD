@@ -242,9 +242,52 @@ Output : 12
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1GIHFvwWlSYDOr72tmor2FIip3Y-249HPmL70L067N9U/edit?usp=sharing
 ---------------------------------------------------------------
+Day 17 of 30 🗓️
 
+Problem : Prime Factorization of a Number
+Given a positive integer N, your task is to find its prime factorization. Return a list of prime numbers that multiply together to give N. If N is prime, the output should be a list containing only N.
+
+Input : N = 18
+
+Output : [2, 3, 3]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1SuttUyXw9y0O9PXxnXmxmi7vqCOwjRTDIluc84ZE9g0/edit?usp=sharing
 ---------------------------------------------------------------
+Day 18 of 30 🗓️
+
+Problem : Count the Number of Divisors of a Number
+Given a positive integer N, your task is to find the total number of divisors (factors) of N. A divisor of N is any integer that divides N without leaving a remainder.
+
+Input : N = 12
+
+Output : 6
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1_soWs6kVTFv2kKwZhHyEaX2Xldvxh-yAzR62-EzGuWw/edit?usp=sharing
 ---------------------------------------------------------------
+Day 19 of 30 🗓️
+
+Problem : Evaluate a Postfix Expression
+Given a postfix expression (also known as Reverse Polish Notation), your task is to evaluate the expression and return the result. The expression can contain integers and the four basic arithmetic operators +, -, *, and /. Assume that the input is always valid and the division operator performs integer division, truncating towards zero.
+
+Input : "2 1 + 3 *"
+
+Output : 9
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1cF8hywCkas2VbnU-wGRgQL6eGQCKbFwI98RL7hrlfo8/edit?usp=sharing
 ---------------------------------------------------------------
+Day 20 of 30 🗓️
+
+Problem : Sort a Stack Using Recursion
+Given a stack of integers, your task is to write a function that sorts the stack in ascending order. You are not allowed to use any additional data structure like arrays, lists, or another stack. The only operations you are allowed to perform are push, pop, and peek on the stack. The sorting must be performed using recursion only.
+
+Input : [3, 1, 4, 2]
+
+Output : [1, 2, 3, 4]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1c8LgrDXZGmq5f9v88mK7ApZ60Lt2PBoccNHQAryzXQs/edit?usp=sharing
 ---------------------------------------------------------------
 
