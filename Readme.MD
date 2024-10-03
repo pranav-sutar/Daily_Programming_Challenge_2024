@@ -338,7 +338,17 @@ Output : 3
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1jl4cvWbHoiDwkWFsQ_EDnquM08338HShqH0WpI6cFEs/edit?usp=sharing
 ---------------------------------------------------------------
+Day 25 of 30 🗓️
 
+Problem : Check if a Binary Tree is a Binary Search Tree (BST)
+You are given the root of a binary tree. Your task is to determine whether the tree is a valid Binary Search Tree (BST)
+
+Input : root = [2, 1, 3]
+
+Output : true
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1w4uUd7Ha07D1Uagk52_G372posIDEl_c8MfY-_pgHxc/edit?usp=sharing
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 ---------------------------------------------------------------
