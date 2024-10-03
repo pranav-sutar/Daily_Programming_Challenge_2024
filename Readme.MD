@@ -314,6 +314,18 @@ Output : 1
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1U8HYrbWQ-dqELzca6gp21KzKIQmOAle9iB_TojWgyao/edit?usp=sharing
 ---------------------------------------------------------------
+Day 23 of 30 🗓️
+
+Problem : Sliding Window Maximum
+You are given an array of integers arr and a positive integer k. Your task is to find the maximum element in each sliding window of size k. The window slides from left to right, one element at a time, and you need to return the maximum element for each of these windows.
+
+Input : arr = [1, 3, -1, -3, 5, 3, 6, 7], k = 3
+
+Output : [3, 3, 5, 5, 6, 7]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1b1AG8BIm7eZYqG1tlwh9ZQd6cQbkVzHfuWx0cCH2fOc/edit?usp=sharing
 ---------------------------------------------------------------
+
 ---------------------------------------------------------------
 
