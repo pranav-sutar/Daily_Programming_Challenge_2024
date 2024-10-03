@@ -326,6 +326,21 @@ Output : [3, 3, 5, 5, 6, 7]
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1b1AG8BIm7eZYqG1tlwh9ZQd6cQbkVzHfuWx0cCH2fOc/edit?usp=sharing
 ---------------------------------------------------------------
+Day 24 of 30 🗓️
 
+Problem : Lowest Common Ancestor (LCA) in a Binary Tree
+You are given a binary tree and two distinct nodes within the tree. Your task is to find the lowest common ancestor (LCA) of these two nodes. The LCA of two nodes p and q is defined as the lowest node in the tree that has both p and q as descendants (where we allow a node to be a descendant of itself).
+
+Input : root = [3, 5, 1, 6, 2, 0, 8, null, null, 7, 4], p = 5, q = 1
+
+Output : 3
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1jl4cvWbHoiDwkWFsQ_EDnquM08338HShqH0WpI6cFEs/edit?usp=sharing
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+---------------------------------------------------------------
 ---------------------------------------------------------------
 
