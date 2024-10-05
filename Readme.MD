@@ -350,6 +350,18 @@ Output : true
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1w4uUd7Ha07D1Uagk52_G372posIDEl_c8MfY-_pgHxc/edit?usp=sharing
 ---------------------------------------------------------------
+Day 26 of 30 🗓️
+
+Problem : Detect a Cycle in an Undirected Graph
+You are given an undirected graph represented by an adjacency list. Your task is to determine if the graph contains any cycle. A cycle is formed if you can traverse through a sequence of edges that starts and ends at the same vertex.
+
+Input : V = 5, E = 5
+Edges = [[0, 1], [1, 2], [2, 3], [3, 4], [4, 0]]
+
+Output : true
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1B3aczD-z87giHKkZy2Xn1EsHKPGqYvti8bLSL_dEzAg/edit?usp=sharing
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 ---------------------------------------------------------------
