@@ -363,6 +363,20 @@ Output : true
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1B3aczD-z87giHKkZy2Xn1EsHKPGqYvti8bLSL_dEzAg/edit?usp=sharing
 ---------------------------------------------------------------
+Day 27 of 30 🗓️
+
+Problem : Find the Shortest Path in an Unweighted Graph
+You are given an unweighted graph represented by an adjacency list. Your task is to find the shortest path (in terms of the number of edges) between two given nodes in the graph.
+
+Input : V = 5
+Edges = [[0, 1], [0, 2], [1, 3], [2, 3], [3, 4]]
+start = 0
+end = 4
+
+Output : 
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1B3aczD-z87giHKkZy2Xn1EsHKPGqYvti8bLSL_dEzAg/edit?usp=sharing
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
