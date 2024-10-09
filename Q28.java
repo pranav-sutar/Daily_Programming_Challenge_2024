@@ -1,10 +1,3 @@
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
-}
-
 public class Q28 {
     public boolean isSymmetric(TreeNode root) {
         return isMirror(root, root);
@@ -34,4 +27,10 @@ public class Q28 {
         boolean isSymmetric = solution.isSymmetric(root);
         System.out.println("Is the binary tree symmetric? " + isSymmetric);
     }
+}
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode(int x) { val = x; }
 }
