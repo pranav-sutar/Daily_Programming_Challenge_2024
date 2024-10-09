@@ -378,5 +378,16 @@ Output :
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1B3aczD-z87giHKkZy2Xn1EsHKPGqYvti8bLSL_dEzAg/edit?usp=sharing
 ---------------------------------------------------------------
+Day 28 of 30 🗓️
+
+Problem : Check if a Binary Tree is Symmetric
+You are given the root of a binary tree. Your task is to determine whether the tree is symmetric. A binary tree is symmetric if the left and right subtrees are mirror images of each other.
+
+Input : [1, 2, 2, 3, 4, 4, 3]
+
+Output : true
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/12I0yn6UskWk68kuQNJ-O9jM7-qn7tjW69ih9JwlUubo/edit?usp=sharing
 ---------------------------------------------------------------
 
